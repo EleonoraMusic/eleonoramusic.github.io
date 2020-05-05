@@ -1,3 +1,11 @@
 theme: jekyll-theme-minimal
 title: Eleonora Musicco
 description: Hello! Welcome to my personal portfolio 
+
+# Site Author
+author:
+  name             : "Eleonora Musicco"
+  avatar           : /ele.jpg
+  bio              : "Ciao, sono la Ele! :-)"
+  location         : "Milan, Italy"
+  email            : musicco.eleonora@gmail.com
